@@ -25,4 +25,4 @@ It supports OTA wi-fi configuration.
 
 ## License
 
-    [GPL3+](https://opensource.org/licenses/GPL-3.0)
+   [GPL3+](https://opensource.org/licenses/GPL-3.0)
