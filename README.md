@@ -1,6 +1,6 @@
 # Smart-mqtttx
 
-An adapted version of a brilliant smart button enginered by [Noel Portugal](https://www.hackster.io/noelportugal/ifttt-smart-button-e11841)
+An adapted version of a brilliant smart button enginered by [Noel Portugal](https://www.hackster.io/noelportugal/ifttt-smart-button-e11841).
 It uses an esp8266-01 Espressif wi-fi module and [lua programming language](https://www.lua.org/) to turn on, publish an mqtt message and shutdown to prevent battery drain.
 It supports OTA wi-fi configuration.
 
